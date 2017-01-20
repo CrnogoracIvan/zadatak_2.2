@@ -82,6 +82,6 @@ public class Kontejner {
 
     @Override
     public String toString() {
-        return "Kontejner: " + "id =" + id +  " oznaka  "+ oznaka + " opis =" + opis +  " tezina = " + tezina ;
+        return "Kontejner: " + "id = " + id +  ", oznaka = "+ oznaka + ", opis = " + opis +  ", tezina = " + tezina ;
     }
 }

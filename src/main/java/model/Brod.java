@@ -78,6 +78,6 @@ public class Brod {
 
     @Override
     public String toString() {
-        return "Brod: " + "id: " + id + ", oznaka: " + oznaka  + ", naziv: " + naziv;
+        return "Brod: " + "id = " + id + ", oznaka = " + oznaka  + ", naziv = " + naziv;
     }
 }
